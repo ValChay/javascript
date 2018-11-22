@@ -42,8 +42,6 @@ class Rectangle extends Figure {
     }
 }
 
-var name = "jhelj";
-
 
 
 class Cercle extends Figure {
